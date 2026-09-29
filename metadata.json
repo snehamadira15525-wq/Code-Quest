@@ -1,0 +1,6 @@
+{
+  "name": "Learn Python with DSA Through Games",
+  "description": "Interactive, game-based learning platform for Python programming and Data Structures & Algorithms featuring interactive visualizers, coding challenges, and arcade mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
